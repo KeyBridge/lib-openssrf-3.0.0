@@ -1,0 +1,41 @@
++------------------------------------------------------------------------------+
+|  Open SSRF Software Library v3.0.0                                           |
++------------------------------------------------------------------------------+
+History
+  11/12/14 - finalize library build, clean up & prepare
+  11/11/14 - automated compile 
+
+Notes:
++------------------------------------------------------------------------------+
+
+ +-------------------------------------------------------------------------+
+ |THE VERSION 3.0 (2012) SPECIFICATION IS SUPERCEDED BY SSRF V3.1.0 (2014).|
+ +-------------------------------------------------------------------------+
+ 
+This software library is provided to facilitate system and service migration 
+from SSRF v3.0 to 3.1. 
+
+This software library is NOT ACTIVELY DEVELOPED.
+
+Bug fixes made in the v3.1.0 code base, especially in the SSRFProperties and 
+SSRFUtilities classes, will be backwards ported. However there is no intention 
+to backwards port automated features, utilities or other improvements 
+implemented in the v.3.1.0 library.
+
+About:
++------------------------------------------------------------------------------+
+This is a verbatim compilation of the SSRF 3.0 specification. It is intended
+to assemble, read and write 100% compliant XML documents formatted according 
+to the specification.
+
+This software library is compiled with XJC, the Java XML Binding Compiler, then 
+modified using an automated SSRF-specific build system developed by Key Bridge 
+to assemble a complete and functional SSRF software library. This library contains
+418 source files in 23 top-level packages 
+
+License:
++------------------------------------------------------------------------------+
+This software is provided AS-IS under the APACHE license, a copy of which in 
+included in the source tree.
+
+__END
