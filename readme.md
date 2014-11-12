@@ -4,7 +4,7 @@
 OpenSSRF is an open source reference implementation of the Standard Spectrum Resource 
 Format (SSRF). The specification is defined in MCEB Pub 8. 
 
-## SSRF v3.0 is Superceded by v3.1.0
+## SSRF v3.0 is Superceded by [SSRF v3.1.0](https://github.com/KeyBridge/lib-openssrf)
 This software library is NOT ACTIVELY DEVELOPED.
 
 Bug fixes made in the v3.1.0 code base, especially in the SSRFProperties and 
