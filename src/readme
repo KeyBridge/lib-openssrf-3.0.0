@@ -13,7 +13,8 @@ Notes:
  +-------------------------------------------------------------------------+
  
 This software library is provided to facilitate system and service migration 
-from SSRF v3.0 to 3.1. 
+from SSRF v3.0 to 3.1 and, where migration is not possible, to support 
+interoperability.
 
 This software library is NOT ACTIVELY DEVELOPED.
 
