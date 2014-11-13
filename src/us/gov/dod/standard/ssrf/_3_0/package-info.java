@@ -20,4 +20,4 @@
                                        @javax.xml.bind.annotation.XmlNs(prefix = "xs", namespaceURI = "http://www.w3.org/2001/XMLSchema"),
                                        @javax.xml.bind.annotation.XmlNs(prefix = "xsi", namespaceURI = "http://www.w3.org/2001/XMLSchema-instance")}
 )
-package us.gov.dod.standard.ssrf;
+package us.gov.dod.standard.ssrf._3_0;
